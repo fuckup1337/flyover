@@ -21,6 +21,14 @@ pip install -r requirements.txt
 
 `python3 flyover.py "Example Organization"`
 
+### Output formats
+
+Flyover can output the data it finds to a file. It currently supports .txt and .json formats.
+
+Example:
+
+`python3 flyover.py "Example Organization" -o asns.json`
+
 ### Scripting
 
 To use Flyover in a script or together with other tools, you can use the `-s` option to only output a list of ASNs to STDOUT:
