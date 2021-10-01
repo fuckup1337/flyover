@@ -15,7 +15,7 @@ cd flyover
 pip install -r requirements.txt
 ```
 
-*Note: It is recommended to do this inside a virtual environment to help keep your system clean. See [https://docs.python.org/3/tutorial/venv.html](https://docs.python.org/3/tutorial/venv.html) for more information.*
+*Note: It is recommended to use a virtual environment to help keep your system clean. See [https://docs.python.org/3/tutorial/venv.html](https://docs.python.org/3/tutorial/venv.html) for more information.*
 
 ## Usage
 
